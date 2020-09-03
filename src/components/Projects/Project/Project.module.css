@@ -1,0 +1,18 @@
+.Project {
+    margin: 20px 0;
+    padding: 30px;
+    transition: transform .2s;
+}
+
+.Project a{
+    text-decoration: none;
+    color: rgb(68, 68, 68);
+    padding: inherit;
+    background-color: rgba(204, 204, 204, 0.452);
+    font-size: 1.2rem;
+    border: 1px solid #ccc;
+}
+
+.Project:hover{
+    transform: scale(1.5);
+}

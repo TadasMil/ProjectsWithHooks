@@ -1,0 +1,10 @@
+.CounterDisplay{
+    font-size: 1.5rem;
+    color: rgb(94, 94, 94);
+}
+
+.CounterButtonList{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

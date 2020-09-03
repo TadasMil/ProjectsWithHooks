@@ -1,0 +1,13 @@
+.Title h3{
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: rgb(68, 68, 68);
+    font-size: 1.2rem;
+    display: inline-block;
+    margin: 16px 16px;
+}
+
+.ProjectList{
+    display: flex;
+    justify-content: center;
+}
