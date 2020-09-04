@@ -3,6 +3,7 @@
     background-color: #ccc;
     border-radius: 50%;
     cursor: pointer;
+    user-select: none;
 }
 
 .Button h3{

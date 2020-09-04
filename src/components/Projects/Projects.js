@@ -3,7 +3,7 @@ import {Project} from './Project/Project'
 import classes from './Projects.module.css'
 import {Title} from '../Title/Title'
 
-const miniProjects = ["users", "counter"];
+const miniProjects = ["users", "counter", "quotes"];
 
 export const Projects = () => {
     return (

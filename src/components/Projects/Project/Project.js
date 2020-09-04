@@ -16,5 +16,11 @@ export const Project = ({miniProjects}) => {
                     <Link to='/counter'>Counter project</Link>
                 </div>
             );
+        case "quotes":
+            return (
+                <div className={classes.Project}>
+                    <Link to='/quotes'>Programming Quotes API</Link>
+                </div>
+            );
    }
 }
